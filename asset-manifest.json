@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sahanjspiders/React_Project.git/React_Project/static/css/main.75a6625e.css",
+    "main.js": "/sahanjspiders/React_Project.git/React_Project/static/js/main.28b7c6d6.js",
+    "static/js/787.ad4f4dcc.chunk.js": "/sahanjspiders/React_Project.git/React_Project/static/js/787.ad4f4dcc.chunk.js",
+    "static/media/Signup.png": "/sahanjspiders/React_Project.git/React_Project/static/media/Signup.29147a239865216eb263.png",
+    "static/media/logo.svg": "/sahanjspiders/React_Project.git/React_Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sahanjspiders/React_Project.git/React_Project/index.html",
+    "main.75a6625e.css.map": "/sahanjspiders/React_Project.git/React_Project/static/css/main.75a6625e.css.map",
+    "main.28b7c6d6.js.map": "/sahanjspiders/React_Project.git/React_Project/static/js/main.28b7c6d6.js.map",
+    "787.ad4f4dcc.chunk.js.map": "/sahanjspiders/React_Project.git/React_Project/static/js/787.ad4f4dcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75a6625e.css",
+    "static/js/main.28b7c6d6.js"
+  ]
+}
